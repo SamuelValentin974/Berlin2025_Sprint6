@@ -13,7 +13,7 @@
 		},
 		{
 			"Name": "DeadPlugin",
-			"Enabled": true,
+			"Enabled": false
 		}
 	]
 }
